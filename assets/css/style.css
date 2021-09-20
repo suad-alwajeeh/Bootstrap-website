@@ -1,0 +1,12 @@
+.carousel-item{
+    height: 100vh;
+}
+.carousel-item img{
+    height: 100vh;
+    width: 100vw;
+}
+.sh_slider{margin-top: 0px;}
+/************************navbar************************/
+.navbar{
+    background-color: transparent;
+}
